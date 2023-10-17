@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/BasicCalculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/EvenOdd" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Factorial" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Fibonacci" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FileReadOccurrencesWords" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/FizzBuzz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LargestNum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/LongestString" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ownership" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Palindrome" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/PrimeNum" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/RandomNumGame" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Repetition" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ReverseWords" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/ReversedString" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/StringFirstLastChar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SumtoN" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/TemperatureConversion" vcs="Git" />
+  </component>
+</project>

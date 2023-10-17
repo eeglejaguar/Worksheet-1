@@ -1,0 +1,1 @@
+C:\Users\Saim\ Ansari\Documents\RUST\Classes\Week\ 1\Worksheet\ 1\ Solved\Hello\ Rust\ Program\target\debug\Hello_Rust_Program.exe: C:\Users\Saim\ Ansari\Documents\RUST\Classes\Week\ 1\Worksheet\ 1\ Solved\Hello\ Rust\ Program\src\main.rs

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/EvenOdd/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Factorial/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/SumtoN/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/TemperatureConversion/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FizzBuzz/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Palindrome/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BasicCalculator/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LargestNum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/RandomNumGame/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Fibonacci/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/LongestString/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Ownership/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/PrimeNum/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Repetition/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ReversedString/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/StringFirstLastChar/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/FileReadOccurrencesWords/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/ReverseWords/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/EvenOdd/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Factorial/target" />
+      <excludeFolder url="file://$MODULE_DIR$/SumtoN/target" />
+      <excludeFolder url="file://$MODULE_DIR$/TemperatureConversion/target" />
+      <excludeFolder url="file://$MODULE_DIR$/FizzBuzz/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Palindrome/target" />
+      <excludeFolder url="file://$MODULE_DIR$/BasicCalculator/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LargestNum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/RandomNumGame/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Fibonacci/target" />
+      <excludeFolder url="file://$MODULE_DIR$/LongestString/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Ownership/target" />
+      <excludeFolder url="file://$MODULE_DIR$/PrimeNum/target" />
+      <excludeFolder url="file://$MODULE_DIR$/Repetition/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ReversedString/target" />
+      <excludeFolder url="file://$MODULE_DIR$/StringFirstLastChar/target" />
+      <excludeFolder url="file://$MODULE_DIR$/FileReadOccurrencesWords/target" />
+      <excludeFolder url="file://$MODULE_DIR$/ReverseWords/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
